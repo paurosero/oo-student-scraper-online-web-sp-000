@@ -25,6 +25,6 @@ class Scraper
       linkedin = s
       binding.pry
    # end  
-  end
+  
 
 end
